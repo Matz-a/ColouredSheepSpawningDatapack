@@ -1,0 +1,6 @@
+{
+	"pack": {
+  	"pack_format": 8,
+    "description": [{"text":"This datapack randomizes the color of sheeps when they spawn.\n","color": "yellow"},{"text":"1.13 - 1.18 Compatible.","color":"light_purple"}]
+	}
+}
